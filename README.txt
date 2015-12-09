@@ -5,6 +5,9 @@ Lehigh University CSE379: Senior Project
 sensor, MSMQ messaging and Apache POI for controlling
 Power Point.
 -----------------------------------------------------------
-Final Presentation Poster:
 Final Report: 
+
 Documentation: 
+
+Final Poster: 
+
