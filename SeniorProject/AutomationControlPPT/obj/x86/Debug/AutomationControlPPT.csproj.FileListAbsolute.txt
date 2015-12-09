@@ -1,0 +1,15 @@
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\bin\Debug\AutomationControlPPT.exe
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\bin\Debug\AutomationControlPPT.pdb
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.MainForm.resources
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.Properties.Resources.resources
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.csproj.GenerateResource.Cache
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.exe
+C:\Users\v-tozhi\Documents\visual studio 2010\Projects\AutomationControlPPT\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.pdb
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.exe
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.pdb
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\bin\Debug\AutomationControlPPT.exe
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\bin\Debug\AutomationControlPPT.pdb
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.csprojResolveAssemblyReference.cache
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.MainForm.resources
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.Properties.Resources.resources
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Debug\AutomationControlPPT.csproj.GenerateResource.Cache

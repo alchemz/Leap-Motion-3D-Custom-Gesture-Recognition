@@ -1,0 +1,7 @@
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\bin\Release\AutomationControlPPT.exe
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\bin\Release\AutomationControlPPT.pdb
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Release\AutomationControlPPT.MainForm.resources
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Release\AutomationControlPPT.Properties.Resources.resources
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Release\AutomationControlPPT.csproj.GenerateResource.Cache
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Release\AutomationControlPPT.exe
+C:\Users\matt.raporte\Documents\Visual Studio 2012\Projects\SeniorProject\AutomationControlPPT\obj\x86\Release\AutomationControlPPT.pdb
