@@ -20,4 +20,3 @@ Documentation:
 Poster:
 ![Poster](matt-raporte.github.com/Senior-Project/docs/Sr_Proj_Poster.pdf) 
 
-
