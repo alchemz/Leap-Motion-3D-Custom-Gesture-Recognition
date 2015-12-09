@@ -4,9 +4,17 @@ Lehigh University CSE379: Senior Project
 
 -----------------------------------------------------------
 
-Custom gesture recognition for Leap Motion
-sensor, MSMQ messaging and Apache POI for controlling
-Power Point.
+Custom gesture recognition for Leap Motion sensor, MSMQ messaging and Apache POI for controlling Power Point.
+*Paths need to be changed to run on different machines.
+Has only been tested on win7/Power Point 10*
+
+[Detection](https://github.com/matt-raporte/Senior-Project/tree/master/detection/src/com/company?raw=true)
+ : Java classes to define custom gestures using Leap Motion API and test for them with each iteration of onFrame().
+
+Translation : Uses MSMQ to send messages from Detection to Action without halting either instance.
+
+[Action](https://github.com/matt-raporte/Senior-Project/tree/master/SeniorProject/AutomationControlPPT?raw=true)
+ : Controls Power Point behaviour with C#. Runs as a standalone app with a GUI.
 
 -----------------------------------------------------------
 
