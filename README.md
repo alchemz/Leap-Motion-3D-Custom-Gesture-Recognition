@@ -1,5 +1,5 @@
-Matt Raporte + Greg Potter
-Lehigh University CSE379: Senior Project
+#Matt Raporte + Greg Potter
+#Lehigh University CSE379: Senior Project
 
 -----------------------------------------------------------
 
@@ -9,14 +9,20 @@ Power Point.
 
 -----------------------------------------------------------
 
-Documentation: 
+##Documentation: 
 [Project Definition](docs/Project_Definition_Document.docx)
+
 [Project Design](docs/Project_Design_Document.docx)
+
 [Project Planning](docs/Project_Planning_Document.docx)
+
 [Project Implementation](docs/Project_Implementation_Document.docx)
+
 [Project V&V](docs/Project_V&V_Document.docx)
+
 [Final Report](docs/Final_Report_Document.docx)
 
-Poster:
+##Poster:
 ![Poster](matt-raporte.github.com/Senior-Project/docs/Sr_Proj_Poster.pdf) 
+![Alt text(/docs/Sr_Proj_Poster.pdf?raw=true "Poster")
 
