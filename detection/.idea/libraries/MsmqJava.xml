@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="MsmqJava">
     <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/MsmqJava-1.2.1.2-bin/bin/MsmqJava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MsmqJava-1.2.1.2-bin/bin/MsmqJava.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
