@@ -10,11 +10,6 @@ using System.Text;
 
 namespace AutomationControlPPT
 {
-    // Automate control PowerPint Slides
-    // Note here:Control operation is different in normal view with reading view, 
-    // Reference information：http://msdn.microsoft.com/en-us/library/bb251394(v=office.12).aspx
-    //http://support.microsoft.com/kb/316126 
-    // http://www.codeproject.com/Questions/73414/Getting-Running-Instance-of-Powerpoint-in-C
     public partial class MainForm : Form
     {
         // Define PowerPoint Application object
